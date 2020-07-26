@@ -23,6 +23,7 @@ export default createGlobalStyle`
 
   html {
     background: var(--primary);
+    color: var(--white);
   }
 
   :root {
