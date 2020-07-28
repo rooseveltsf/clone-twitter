@@ -3,7 +3,7 @@ import React from 'react';
 import GlobalStyle from './styles/GlobalStyle';
 import Layout from './components/Layout';
 
-function App() {
+const App:React.FC = () => {
   return (
     <>
       <Layout />
