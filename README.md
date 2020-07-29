@@ -2,8 +2,6 @@
 UI Clone - Twitter Responsive
 </h1>
 
-<p align="center">Responsive Twitter UI Clone (partial) for study purposes.</p>
-
 <hr>
 
 ## Techs
